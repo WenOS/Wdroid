@@ -1,2 +1,2 @@
 # Wdroid
-Wdroid 【表情】
+Wdroid is a base library for android development.

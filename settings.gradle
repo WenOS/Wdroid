@@ -1,1 +1,1 @@
-include ':wdroid_demo', ':wdroid_c', ':wdroid_w'
+include ':samples', ':wdroid_c', ':wdroid_w'
